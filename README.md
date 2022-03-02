@@ -9,8 +9,8 @@
 - 🔗 Ways to connect:  [Email Me](mailto:bigtechnik@icloud.com) , [LinkedIn](https://www.linkedin.com/in/niktyler)
 - ⚡ Fun fact: I love all things Harry Potter && I'm a hatstall! 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikblvck"/>
+<!-- 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikblvck"/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikblvck&layout=compact&show_icons=true)](https://github.com/nikblvck/github-readme-stats)
 
