@@ -12,5 +12,5 @@
 <!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikblvck"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikblvck&layout=compact&show_icons=true)](https://github.com/nikblvck/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikblvck&show_icons=true)](https://github.com/nikblvck/github-readme-stats)
 
