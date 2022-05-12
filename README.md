@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on refactoring previous Python/JavaScript projects. 
 - 🌱 I’m currently learning Swift/UI Kit for mobile app development.
 - 💬 Ask me about tech hardware, software and peripherals
-- 🔗 Ways to connect:  [Email Me](mailto:bigtechnik@icloud.com) , [LinkedIn](https://www.linkedin.com/in/niktyler)
+- 🔗 Ways to connect:  [Email Me](mailto:bigtechnik@icloud.com) 
 - ⚡ Fun fact: I love all things Harry Potter && I'm a hatstall! 
 
 <!-- 
