@@ -1,7 +1,7 @@
 
 # Hi, I'm Nik Tyler 👋🏾
 
-- 👩🏾‍💻 Software Engineer 
+- 👩🏾‍💻 Software Engineer | UX/UI Designer 
 - 📍 Tacoma, WA 
 - 🔭 I’m currently working on refactoring previous Python/JavaScript projects. 
 - 🌱 I’m currently learning Swift/UI Kit for mobile app development.
