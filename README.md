@@ -1,7 +1,7 @@
 
 # Hi, I'm Nik Tyler 👋🏾
 
-- 👩🏾‍💻 Software Engineer | UX/UI Designer 
+- 👩🏾‍💻🦄 UX Engineer
 - 📍 Tacoma, WA 
 - 🔗 Ways to connect:  [Email Me](mailto:bigtechnik@icloud.com) 
 
